@@ -2,6 +2,8 @@
 
 ![](logo.jpg)
 
+- ### [SmackDown LIVE 1023期](2019/SmackDown-LIVE-1023/readme.md)
+
 - ### [SmackDown LIVE 1022期](2019/SmackDown-LIVE-1022/readme.md)
 
 - ### [SmackDown LIVE 1021期](2019/SmackDown-LIVE-1021/readme.md)
